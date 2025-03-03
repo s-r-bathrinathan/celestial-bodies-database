@@ -13,4 +13,6 @@ The dataset consists of four main tables:
 - **galaxy_type**
 - **star_type**
 
-Each table contains various attributes relevant to celestial bodies.
+## Data Attribution
+Sample astronomical data for galaxies, stars, planets, and moons was generated with the assistance of ChatGPT.
+
